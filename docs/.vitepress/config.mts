@@ -26,6 +26,10 @@ export default defineConfig({
         text: "Atualizações", 
         items: [
           {
+            text: 'v0.0.3', 
+            link: "/versoes/v0.0.3.md"
+          },
+          {
             text: 'v0.0.2', 
             link: "/versoes/v0.0.2.md"
           }, 
