@@ -3,7 +3,7 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  base: "/cnm-vehicle-api-documentation/",
+  base: "/vehicle-api-documentation/",
   description: "Api REST de veículos",
   head: [
     [
