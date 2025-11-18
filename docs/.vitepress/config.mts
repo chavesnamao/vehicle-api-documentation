@@ -22,23 +22,23 @@ export default defineConfig({
       dark: "https://cdn.chavesnamao.com.br/common/logos/logo-cnm-w.png",
     },
     nav: [
-      { 
-        text: "Atualizações", 
+      {
+        text: "Atualizações",
         items: [
           {
-            text: 'v0.0.3', 
-            link: "/versoes/v0.0.3.md"
+            text: "v0.0.3",
+            link: "/versoes/v0.0.3.md",
           },
           {
-            text: 'v0.0.2', 
-            link: "/versoes/v0.0.2.md"
-          }, 
+            text: "v0.0.2",
+            link: "/versoes/v0.0.2.md",
+          },
           {
-            text: 'v0.0.1', 
-            link: "/versoes/v0.0.1.md"
-          }
-        ] 
-      }
+            text: "v0.0.1",
+            link: "/versoes/v0.0.1.md",
+          },
+        ],
+      },
     ],
     sidebar: [
       {
