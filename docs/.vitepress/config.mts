@@ -46,6 +46,10 @@ export default defineConfig({
         text: "Atualizações",
         items: [
           {
+            text: "v0.0.4",
+            link: "/versoes/v0.0.4.md",
+          },
+          {
             text: "v0.0.3",
             link: "/versoes/v0.0.3.md",
           },
@@ -70,7 +74,7 @@ export default defineConfig({
             link: "/01-consideracoes-iniciais/index.md",
           },
           {
-            text: "Ambiente de testes",
+            text: "Ambiente de testes (UPDATED)",
             link: "/01-consideracoes-iniciais/test-environment.md",
           },
           {
@@ -86,7 +90,7 @@ export default defineConfig({
             link: "/01-consideracoes-iniciais/limit-requests.md",
           },
           {
-            text: "Status de respostas das requisições (UPDATED)",
+            text: "Status de respostas das requisições",
             link: "/01-consideracoes-iniciais/status-request.md",
           },
           {
